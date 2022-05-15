@@ -1,5 +1,7 @@
 """
-An introduction to linkedlist algorithms
+
+An introduction to linkedlist algorithms.
+
 """
 
 
